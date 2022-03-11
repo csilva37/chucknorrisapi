@@ -1,5 +1,5 @@
 {
-  "name": "basicvuerouter",
+  "name": "chucknorrisapi",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,7 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "vue": "^3.2.25",
+    "vue-request": "^1.2.4",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
